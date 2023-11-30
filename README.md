@@ -1,3 +1,5 @@
+Discord - AnderssonSven-Erik#0781
+
 # lottery.aleo
 
 ## Run Guide
